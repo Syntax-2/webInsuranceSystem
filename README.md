@@ -1,5 +1,5 @@
 # Insurance Company System
-Project that i did few years ago for my class on the insurance system, developed using plain PHP and SQL and little to none Pyhon for PHPMailer.
+Simple project that I did a few years ago for my class, developed using plain PHP and SQL, with minimal use of Python for PHPMailer.
 
 # Project Overview
 This project aims to create a user-friendly and accessible server program for an insurance company, along with designing the database and developing a prototype of the client-server program. Upon registration, users will be able to order their desired insurance policies.
@@ -18,7 +18,7 @@ The primary objective is to provide people with a tool that offers insurance ser
 - <b>Automated Email Sender:</b> Integration of automated email sending functionality for notifications, confirmations, and communication with users.
 
 ## Technologies Used
-- <b>Database:</b> MySQL, XAMPP
+- <b>Database:</b> MySQL
 - <b>Back-end:</b> PHP
 - <b>Front-end:</b> HTML/CSS/JavaScript
 
@@ -30,4 +30,7 @@ The primary objective is to provide people with a tool that offers insurance ser
 - Open the project in your preferred code editor.
 - Modify the database connection settings in the PHP files to match your local environment.
 - Access the project through your web browser.
+
+## Database model
+![database model](databaseModel.png)
 
